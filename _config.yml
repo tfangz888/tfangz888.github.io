@@ -1,0 +1,11 @@
+auto: true
+
+markdown: rdiscount
+pygments: true
+paginate: 8
+permalink: /:title
+
+title: tfangz888.github.com
+url: http://tfangz888.github.io
+feed: /atom.xml
+author_info: <a href="http://tfangz888.github.io/">Tfangz</a>
