@@ -24,5 +24,5 @@ layout: home
     <div class="aside">
     </div>
 </div>
-
+<li><a href="_posts/blog/">Designboom</a></li>
 this blog copies from beiyuu.github.com
